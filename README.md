@@ -1,2 +1,2 @@
-# snake_interpolate
-A handy tool for performing efficient one-dimensional interpolation over many x-grids that share a common y-grid.
+# CDF_snake
+A handy tool for performing efficient inverse-transform sampling of one-dimensional conditional probability distributions.
